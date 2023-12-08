@@ -1,0 +1,22 @@
+* {
+  display-flex: 0;
+  margin: 0 auto;
+  padding: 0;
+  border: 0;
+  text-align: center;
+}
+
+.header {
+  text-align: top ;
+}
+
+.btn {
+  background-color: pink;
+  border-color: palevioletred;
+  border-radius: 1%;
+}
+
+
+
+
+
